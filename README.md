@@ -1,8 +1,9 @@
 # Starwarssdk-app
+A demo application to showcase modular SDK builders for better Android SDK (library) design.
 
 ## Summarized flow
 
-1. To launch StarwarsSDK, call initialize function in StarwarsSdk object and pass in yyour activity: StarwarsSdk.initialize(activity = this)
+1. To launch StarwarsSDK, call initialize function in StarwarsSdk object and pass in your activity: StarwarsSdk.initialize(activity = this)
 
 2. After SDK is launched
     - You can view a random list of characters from starwars api https://swapi.dev/api/people/
@@ -41,15 +42,16 @@ To prepare for use, you must ensure that your app has internet permissions by ma
 
 ## Building the example project
 1. Clone the repository.
-2. Import the project either using Android Studio
-3. Use hilt for dependency injection and annotate your application class with @HiltAndroidApp
-4. Build and run the project on your device or emulator
+2. Import the project either using Android Studio/
+3. Use hilt for dependency injection and annotate your application class with @HiltAndroidApp.
+4. Build and run the project on your device or emulator.
 
 ## Improvements
-- Persist data with database to avoid constantly calling apis.
+- Persist data with database to avoid always making api requests to fetch data.
 - Dependency invasion without using hilt or any di library that enforces user to make changes to their Application class.
+- Error handling can be improved.
 - Add button or swipe to refresh effect on activities displaying data to refresh the data being displayed on activity
-- Restrict access files within Sdk
+- Restrict access to files inside Sdk.
 
 ## Blog
 - [Companion blog article](https://www.raywenderlich.com/52-building-an-android-library-tutorial#toc-anchor-008)
