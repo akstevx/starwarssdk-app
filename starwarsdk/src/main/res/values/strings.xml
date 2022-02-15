@@ -1,0 +1,38 @@
+<resources>
+    <string name="launch_sdk">Launch Sdk</string>
+    <string name="app_name">starwars-android-sdk</string>
+    <string name="app_title">starwars SDK</string>
+    <string name="starwars_characters">5 random Characters</string>
+    <string name="starwars_planets">5 random Planets</string>
+    <string name="starwars_movies">5 random Films</string>
+
+    <string name="sdk_info">Hello, welcome to my <b>Star Wars SDK</b> Demo,
+        what would you like to experience?
+    </string>
+
+    <string name="character_text">View Characters in StarWars</string>
+    <string name="planet_text">View Planets in StarWars</string>
+    <string name="film_text">View Movies in StarWars</string>
+    <string name="dummy_name">Name: Luke Skywalker</string>
+    <string name="character_sub_text">Here are <b>5 random characters</b> from
+        star wars universe
+    </string>
+    <string name="planet_sub_text">Here are my <b>5 random planets</b> from
+        star wars universe
+    </string>
+
+    <string name="film_sub_text">Here are my <b>5 random films</b> from
+        star wars universe
+    </string>
+    <string name="dummy_planet_name">Yavin IV</string>
+    <string name="planet_population">Population: 1000</string>
+    <string name="planet_climate">Climate: Arid</string>
+    <string name="dummy_film">Attack of the Clones</string>
+    <string name="back">Go back</string>
+    <string name="population">Population</string>
+    <string name="climate">Climate</string>
+    <string name="opening_crawl">Opening Crawl</string>
+    <string name="release_year">Release Year</string>
+    <string name="eye_color">Eye color</string>
+
+</resources>

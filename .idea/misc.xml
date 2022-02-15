@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.33125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27316208991451546" />
+        <entry key="starwarsdk/src/main/res/drawable/close.xml" value="0.3215" />
+        <entry key="starwarsdk/src/main/res/drawable/line.xml" value="0.3215" />
+        <entry key="starwarsdk/src/main/res/drawable/shade.xml" value="0.3215" />
+        <entry key="starwarsdk/src/main/res/drawable/shade2.xml" value="0.3215" />
+        <entry key="starwarsdk/src/main/res/drawable/shade3.xml" value="0.3215" />
+        <entry key="starwarsdk/src/main/res/layout-v21/activity_main.xml" value="0.31875" />
+        <entry key="starwarsdk/src/main/res/layout/activity_character.xml" value="0.261650277896537" />
+        <entry key="starwarsdk/src/main/res/layout/activity_film.xml" value="0.261650277896537" />
+        <entry key="starwarsdk/src/main/res/layout/activity_intro.xml" value="0.38052874072182125" />
+        <entry key="starwarsdk/src/main/res/layout/activity_main.xml" value="0.31875" />
+        <entry key="starwarsdk/src/main/res/layout/activity_planet.xml" value="0.261650277896537" />
+        <entry key="starwarsdk/src/main/res/layout/character_item_layout.xml" value="0.22520852641334568" />
+        <entry key="starwarsdk/src/main/res/layout/film_item_layout.xml" value="0.261650277896537" />
+        <entry key="starwarsdk/src/main/res/layout/item_layout.xml" value="0.25" />
+        <entry key="starwarsdk/src/main/res/layout/planet_item_layout.xml" value="0.3974718110996619" />
+        <entry key="starwarsdk/src/main/res/layout/starwars_item_layout.xml" value="0.31875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

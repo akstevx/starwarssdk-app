@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loading_planets">
+        <item>@drawable/planet_ic</item>
+        <item>@drawable/planet1</item>
+        <item>@drawable/planet2</item>
+        <item>@drawable/planet3</item>
+        <item>@drawable/planet4</item>
+    </array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.starwarsdk">
+
+    <application>
+        <activity
+            android:name=".ui.film.FilmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.IntroActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ui.people.CharacterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.planet.PlanetActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
